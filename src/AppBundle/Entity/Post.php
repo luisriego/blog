@@ -44,6 +44,7 @@ class Post extends Timespampable
      *
      * @ORM\ManyToOne(targetEntity="Author", inversedBy="posts")
      * @ORM\JoinColumn(name="author_id", referencedColumnName="id", nullable=false)
+     * @Assert\NotBlank
      */
     private $author;
 
