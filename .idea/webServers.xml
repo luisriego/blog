@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="dcf62b66-40a3-473b-89c7-b9e4b548bca0" name="TechChip-CMicro" url="http://www.techchip.com.br">
+        <fileTransfer host="www.techchip.com.br" port="2222" rootFolder="/home/techchip" accessType="SFTP" password="df93df93df9fdf9fdf9bdf99df92df9e" username="techchip">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="79551962-ef40-4ac6-b8a5-775a1e09b2d6" name="Mi Servidor" url="http://www.imovelbhz.com.br">
+        <fileTransfer host="www.imovelbhz.com.br" port="2222" rootFolder="/home/imove791" accessType="SFTP" password="dff9dfcbdfc4dfdedfc3dfcbdfcddfc5dfeadf98df9adf9adf9d" username="imove791">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="f1282768-0ab8-43e1-84c2-33d3dceb96d7" name="Clube Progresso" url="http://www.clubeprogresso.com.br">
+        <fileTransfer host="www.clubeprogresso.com.br" port="2222" rootFolder="/home/clubeprogressoco" accessType="SFTP" password="dfcfdfcedfc3dfc4dfc2dfc5df84df93df9adf93df9a" username="clubeprogressoco">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
