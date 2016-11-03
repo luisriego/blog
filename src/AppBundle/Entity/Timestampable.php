@@ -17,7 +17,6 @@ use Doctrine\ORM\Mapping as ORM;
  */
 abstract class Timespampable
 {
-
     /**
      * Classe abstrata para criar a data
      * @var \DateTime
